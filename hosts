@@ -132,6 +132,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 p.vtracy.de
 0.0.0.0 scripts.webcontentassessor.com
+0.0.0.0 adalliance.dcapi.tagger.opecloud.com
+
 0.0.0.0 ad.yieldlab.net
 
 0.0.0.0 d.sdp-native.tech
