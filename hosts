@@ -142,3 +142,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 eu.webhook.logs.insight.rapid7.com
 0.0.0.0 gdpr-tcfv2.sp-prod.net
+0.0.0.0 consent-cdn.sueddeutsche.de
+0.0.0.0 experience-eu.piano.io
+0.0.0.0 player.podigee-cdn.net
+0.0.0.0 cdn.adspirit.de
