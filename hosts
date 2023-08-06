@@ -73,3 +73,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.chartbeat.com
 0.0.0.0 sak.userreport.com
 0.0.0.0 boot.pbstck.com
+0.0.0.0 tlx.3lift.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 script.ioam.de
+0.0.0.0 *.kameleoon.eu
+0.0.0.0 cdn.mateti.net
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 cdn.thenewsbox.net
