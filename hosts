@@ -71,4 +71,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 logx.optimizely.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 static.chartbeat.com
-
+0.0.0.0 sak.userreport.com
+0.0.0.0 boot.pbstck.com
