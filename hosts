@@ -23,4 +23,52 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # We start here
-  
+0.0.0.0 acp-ss-ew1.adobe.io
+0.0.0.0 ae.mmstat.com
+0.0.0.0 ae.mmstat.com.gds.alibabadns.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 api.ipify.org
+0.0.0.0 appboot.netflix.com
+0.0.0.0 apv-launcher.minute.ly
+0.0.0.0 arc.msn.com
+0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 contile.services.mozilla.com
+0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
+0.0.0.0 dpm.demdex.net
+0.0.0.0 example.org
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 mitv.tracking.intl.miui.com
+0.0.0.0 na1e-acc.services.adobe.com
+0.0.0.0 nfl.demdex.net
+0.0.0.0 notify.adobe.io
+0.0.0.0 p1.parsely.com
+0.0.0.0 player-feedback-v1.glomex.com
+0.0.0.0 resources.xg4ken.com
+0.0.0.0 s.click.aliexpress.com
+0.0.0.0 s.youtube.com
+0.0.0.0 sc-static.net
+0.0.0.0 scss.adobesc.com
+0.0.0.0 servedby.flashtalking.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 smetrics.nfl.com
+0.0.0.0 snippet.minute.ly
+0.0.0.0 spocs.getpocket.com
+0.0.0.0 sqm.microsoft.com
+0.0.0.0 ss-prod-ew1-notif-28.aws.adobess.com
+0.0.0.0 teredo.ipv6.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 wpad.fritz.box
+0.0.0.0 wpad.mpuser.mobilplus.com
+0.0.0.0 wpad.yfox.eu
+0.0.0.0 fonts.gstatic.com
+0.0.0.0 t.visx.net
+0.0.0.0 aggregator.service.usercentrics.eu
+0.0.0.0 ups.xplosion.de
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 logx.optimizely.com
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 static.chartbeat.com
+
