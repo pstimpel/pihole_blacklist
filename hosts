@@ -138,6 +138,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-gl.nmrodam.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 eu.webhook.logs.insight.rapid7.com
+0.0.0.0 httpdns-euex-push.heytapmobile.com
+0.0.0.0 routergtest14.oneplus.com.fritz.box
+0.0.0.0 routergtest14.oneplus.com
+0.0.0.0 conn-service-eu-03.allawnos.com
+0.0.0.0 icota-service-eu.allawnos.com
+0.0.0.0 vcfd2.giraffic.net
+0.0.0.0 tag.atom.gamedistribution.com
+0.0.0.0 vcfd1.giraffic.net
+0.0.0.0 *.allawnos.com
+0.0.0.0 use-application-dns.net
+
 0.0.0.0 gdpr-tcfv2.sp-prod.net
 0.0.0.0 consent-cdn.sueddeutsche.de
 0.0.0.0 experience-eu.piano.io
