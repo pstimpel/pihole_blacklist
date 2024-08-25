@@ -26,9 +26,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 acp-ss-ew1.adobe.io
 0.0.0.0 ae.mmstat.com
 0.0.0.0 ae.mmstat.com.gds.alibabadns.com
-0.0.0.0 api-global.netflix.com
 0.0.0.0 api.ipify.org
-0.0.0.0 appboot.netflix.com
 0.0.0.0 apv-launcher.minute.ly
 0.0.0.0 arc.msn.com
 0.0.0.0 cdn.adsafeprotected.com
@@ -38,7 +36,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 example.org
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 mitv.tracking.intl.miui.com
 0.0.0.0 na1e-acc.services.adobe.com
 0.0.0.0 nfl.demdex.net
